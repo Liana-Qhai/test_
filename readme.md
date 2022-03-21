@@ -1,8 +1,3 @@
 # hello anyeong
 
 # Hi
-
-
-
-
-
