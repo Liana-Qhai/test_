@@ -1,1 +1,1 @@
-import pygame
+print("hello world", "hi", "hello anyeong" )
